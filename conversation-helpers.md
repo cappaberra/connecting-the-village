@@ -7,6 +7,7 @@ title: Connecting the Village Co-op
 * Are other kids allowed in the home?
 * Do you enforce hand-washing standards (e.g. wash for 20s)?
 * ... More will be added!
+
 ## In Public
 * Do you go to summer camps? Gyms? Group activities?
 * Do you wear a mask in public? Do your kids?k
