@@ -48,7 +48,7 @@ This framework IS NOT intended to replace your child's education--rather it can 
 <!-- FRAMEWORK -->
 ## The Framework
 
-Visit the website to view the framework: [http://www.connectingthevillage.com/](http://www.connectingthevillage.com/)
+Visit the website to view the framework: [http://www.connectingthevillage.org/](http://www.connectingthevillage.org/)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -58,7 +58,7 @@ See the [open issues](https://github.com/cappaberra/connecting-the-village/issue
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions to continuously improve this framework are **greatly appreciated**. The [website](http://www.connectingthevillage.com/) is implemented in GitHub Pages within this repo. The `gh-pages` branch has the latest content.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions to continuously improve this framework are **greatly appreciated**. The [website](http://www.connectingthevillage.org/) is implemented in GitHub Pages within this repo. The `master` branch has the latest content.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -74,8 +74,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Website: [http://www.connectingthevillage.com](http://www.connectingthevillage.com)  
-Email: [info@connectingthevillage.com](mailto:info@connectingthevillage.com)
+Website: [http://www.connectingthevillage.org](http://www.connectingthevillage.org)  
+Email: [info@connectingthevillage.org](mailto:info@connectingthevillage.org)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements

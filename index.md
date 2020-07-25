@@ -31,4 +31,4 @@ See the [Glossary](./glossary).
 See the [Conversation Helpers](./conversation-helpers).
 
 ### Contact
-Please browse the [issues](https://github.com/cappaberra/connecting-the-village/issues) on GitHub to see if your question has already been answered. If not, open a [new issue](https://github.com/cappaberra/connecting-the-village/issues/new), or [email us](mailto:info@connectingthevillage.com).
+Please browse the [issues](https://github.com/cappaberra/connecting-the-village/issues) on GitHub to see if your question has already been answered. If not, open a [new issue](https://github.com/cappaberra/connecting-the-village/issues/new), or [email us](mailto:info@connectingthevillage.org).
