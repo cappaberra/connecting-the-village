@@ -27,6 +27,7 @@ The Connecting the Village Co-op Framework consist of a few documents below:
 #### Language / Definitions
 See the [Glossary](./glossary).
 #### Common Expectations
+See the [Expectations](./expectations).
 #### Conversation Helpers 
 See the [Conversation Helpers](./conversation-helpers).
 
