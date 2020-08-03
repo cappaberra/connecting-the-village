@@ -21,7 +21,7 @@ This website hosts a free, open source, and continuously-improving framework (th
 The Connecting the Village Co-op Framework consist of the documents below:
 
 * [**Glossary**](./glossary): A set of terminology and their definitions.
-* [**Common Expectations**](./expectations): A worksheet that should be used by the social unit.
+* [**Common Expectations**](./expectations): A worksheet that should be used by the social circle.
 * [**Conversation Helpers**](./conversation-helpers): This is a set of questions that you can use to help facilitate trust and a dialog with the other families in your social unit.
 
 Supplemental Google Docs documents are available, too:
