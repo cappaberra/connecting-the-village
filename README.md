@@ -19,7 +19,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Connecting the Village Framework</h1>
+  <h1 align="center">Connecting the Village Co-op Framework</h1>
 
 </p>
 
