@@ -5,7 +5,8 @@ title: Connecting the Village Co-op
 ## Welcome to Conneting the Village Co-op
 Children's social development is a key component of their mental wellness. Different ages present different requirements for social interaction and development. As parents of grade-school age kids, the COVID-19 pandemic continues to impact our kids' social lives and adds additional stressors to their everyday lives.
 
-* **Unknowns about school?** You bet.
+* **Unknowns about school / academic clubs / etc?** You bet.
+* **Continuing / transitioning to online learning?** Probably / yes.
 * **Not sure how to talk to other families about "getting the kids together"?** You bet.
 * **One or both parents working/going to school/etc, and are having a hard time figuring out childcare?** You bet.
 
@@ -19,17 +20,9 @@ This website hosts a free, open source, and continuously-improving framework (th
 ### Framework Overview
 The Connecting the Village Co-op Framework consist of a few documents below:
 
-* **Language / Definitions**: A set of terminology and their definitions.
-* **Common Expectations**: A worksheet that should be used by the social unit.
-* **Conversation Helpers**: This is a set of questions that you can use to help facilitate trust and a dialog with the other families in your social unit.
-*
-### Materials
-#### Language / Definitions
-See the [Glossary](./glossary).
-#### Common Expectations
-See the [Expectations](./expectations).
-#### Conversation Helpers 
-See the [Conversation Helpers](./conversation-helpers).
+* [**Glossary**](./glossary): A set of terminology and their definitions.
+* [**Common Expectations**](./expectations): A worksheet that should be used by the social unit.
+* [**Conversation Helpers**](./conversation-helpers): This is a set of questions that you can use to help facilitate trust and a dialog with the other families in your social unit.
 
 ### Contact
 Please browse the [issues](https://github.com/cappaberra/connecting-the-village/issues) on GitHub to see if your question has already been answered. If not, open a [new issue](https://github.com/cappaberra/connecting-the-village/issues/new), or [email us](mailto:info@connectingthevillage.org).

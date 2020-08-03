@@ -7,16 +7,22 @@ The parents within the social circle should all agree that coordination and open
 
 **Remember, the goal is to keep the social circle as healthy as possible while allowing the kids in the social circle to enjoy each other's company!**  
 
+These expectations are a guide... 80% they should work out fine. If anything needs to change, please discuss it as a social circle, and come to an agreement.  
+
 1. Kids within a social circle do not need to physically distance.
 1. Before eating, kids need to wash their hands with soap for at least 20 seconds. Use paper towels to dry.
-1. Parents within a social circle should continue practicing physical distancing (~6ft)
-1. Between parents of the social circle, establish communication mechanism (e.g. phone/email/text/facebook messenger/etc).
+1. Parents within a social circle should continue practicing physical distancing (~6ft).
+1. Between parents of the social circle, establish communication mechanism (e.g. phone/email/text/facebook messenger/etc). Involve teenagers, too, if it makes sense.
 1. Within the social circle, take advantage of shared calendars like the <a href="https://childcarecoop.org/">CCCC</a> or Google Calendars to schedule shared events.
 1. Communication is recommended with your social circle's parents when any of the following examples occur (there might be more your social circle agrees upon):
+    * Anyone within the social circle is sick.
+    * Anyone within the social circle is in the presense of someone that has (or might have) COVID-19.
     * Leave your home where you will be in close contact with anyone outside your social circle (e.g. extended family).
-    * Have outside your home stay with you in your home (e.g. family coming to visit).
+    * Have someone outside your home stay with you in your home (e.g. family coming to visit).
     * Participating in any activities outside of your home where social distancing is not possible (e.g. summer camps, gym group activites, etc.).
     * Change in school situation for one or more kids (e.g. moving from online -> physically at the school).
-1. ... More are coming!
+    * Change in babysitter / caregiver.
+    * ... etc.
+1. ... more soon!
 
 Back [home](/)
