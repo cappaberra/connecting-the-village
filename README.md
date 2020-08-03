@@ -32,7 +32,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgments](#acknowledgements)
+* [Acknowledgments](#acknowledgments)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -77,7 +77,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Website: [https://www.connectingthevillage.org](https://www.connectingthevillage.org)  
 Email: [info@connectingthevillage.org](mailto:info@connectingthevillage.org)
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * My wife, for her inspiration and feedback
 
