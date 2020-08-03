@@ -32,12 +32,12 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgments](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Since the COVID-19 pandemic started in early 2020, the initial reaction by a majority of the world was to shutdown--businesses, schools, sports, entertainment, etc. This conveys a sense that everyone is potentially infectious. With all the fear, uncertainty, and doubt, and now the ever-confusing situation / scientific data / opinions / news / etc. that seems to change on a weekly basis (if not more often), the mental health of families with kids is being stretched. Our kids require social interaction with their peers to coninue developing their social and emotional intelligence. Of course, every child is different. Additionally, each age requires different experiences / people / etc.
+Since the COVID-19 pandemic started in early 2020, the initial reaction by a majority of the world was to shutdown--businesses, schools, sports, entertainment, etc. This conveys a sense that everyone is potentially infectious. With all the fear, uncertainty, and doubt, and now the ever-confusing situation / scientific data / opinions / news / etc. that seems to change on a weekly basis (if not more often), the mental health of families with kids is being stretched. Our kids require social interaction with their peers to continue developing their social and emotional intelligence. Of course, every child is different. Additionally, each age requires different experiences / people / etc.
 
 Do you feel like talking to another parent about COVID-19 is "taboo" or awkward? Do you feel sad that your kids aren't seeing their friends like they used? Do you feel isolated? ... YOU ARE NOT ALONE!
 
@@ -78,7 +78,7 @@ Website: [https://www.connectingthevillage.org](https://www.connectingthevillage
 Email: [info@connectingthevillage.org](mailto:info@connectingthevillage.org)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 * My wife, for her inspiration and feedback
 
 <!-- MARKDOWN LINKS & IMAGES -->
