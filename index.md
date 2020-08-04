@@ -3,7 +3,7 @@ layout: default
 title: Connecting the Village Co-op
 ---
 ## Welcome to Connecting the Village Co-op
-Children's social development is a key component of their mental wellness. Different ages present different requirements for social interaction and development. As parents of grade-school age kids, the COVID-19 pandemic continues to impact our kids' social lives and adds additional stressors to their everyday lives.
+Children's social development is a key component of their mental wellness. Different ages present different requirements for social interaction and development. As parents of grade-school age kids, the COVID-19 pandemic continues to impact our kids' social lives.
 
 * **Unknowns about school / academic clubs / etc?** You bet.
 * **Continuing / transitioning to online learning?** Probably / yes.
